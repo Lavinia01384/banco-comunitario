@@ -1,7 +1,7 @@
-export interface  ICliente {
-    nome:string; 
-    id:number;
-    endereço:string;
-    numerotelefone:number;
-    rendasalarial:number;
-  }
+export interface ICliente{
+  nome:string; 
+  id:number;
+  endereço:string;
+  numerotelefone:number;
+  rendasalarial:number;
+}

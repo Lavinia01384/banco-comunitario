@@ -1,6 +1,6 @@
 import { ICliente } from "./ICliente";
 
-class Cliente implements ICliente{
+export class Cliente implements ICliente{
     nome:string; 
     id:number;
     endereço:string;
